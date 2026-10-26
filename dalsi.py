@@ -1,4 +1,4 @@
-nejake_cislo = 578781
+nejake_cislo = 5787812
 print(nejake_cislo)
 print(f"Cislo je: {nejake_cislo}")
 
