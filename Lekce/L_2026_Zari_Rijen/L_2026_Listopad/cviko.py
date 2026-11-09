@@ -55,3 +55,9 @@ def vypocet_obvodu_obdelniku(delka, sirka=None):
 delka = 5
 sirka = 3
 print(f"Obvod obdelníku s délkou {delka} a šířkou {sirka} je: {vypocet_obvodu_obdelniku(delka, sirka)}")
+
+#odmocnina
+odmocnina = math.sqrt(256)
+print(f"Odmocnina z 256 je: {odmocnina}")
+
+print(dir(math))

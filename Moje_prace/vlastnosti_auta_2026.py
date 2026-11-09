@@ -1,10 +1,13 @@
+# vlastnosti auta
+
 rychlost = 140
 vyska = 1.2
 delka = 4.5
-smer = "Letiště"
+smer = "Praha"
 dalnice = "D3"
 
 
+# vypis vlastností auta do terminalu
 
 print(f"rychlost auta: {rychlost} km/h")
 print(f"výška auta: {vyska} metru")
