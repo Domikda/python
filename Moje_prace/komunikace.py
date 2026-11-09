@@ -6,7 +6,6 @@ Jméno_Petr2 = "Petře"
 Příjmení_Petr2 = "Nováku"
 Věk_Petr = 30
 
-
 Jméno_Karel = "Karel"
 Příjmení_Karel = "Svoboda"
 Jméno_Karel2 = "Karle"
